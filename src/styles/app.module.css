@@ -1,0 +1,24 @@
+/* style body with background color blue  */
+body{
+    background-color: skyblue;
+}
+/* style content i.e box in which all content is present */
+.content{
+    border: 2px solid black;
+    padding: 80px 70px 90px 70px;
+    width: 50%;
+    margin-left: 22%;
+    margin-top: 30vh;
+}
+
+/* Style heading for dropdown */
+.heading{
+    font-weight: 800;
+    font-size: 3rem;
+    margin-bottom: 20px;
+    text-align: center;
+}
+/* make font size to 25 px for dropdown */
+.Dropdown{
+    font-size: 25px;
+}
